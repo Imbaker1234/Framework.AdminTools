@@ -1,0 +1,6 @@
+C:\Users\Imbaker1234\source\repos\IMBFramework\AdminTools\bin\Debug\AdminTools.dll
+C:\Users\Imbaker1234\source\repos\IMBFramework\AdminTools\bin\Debug\AdminTools.pdb
+C:\Users\Imbaker1234\source\repos\IMBFramework\AdminTools\obj\Debug\AdminTools.csprojAssemblyReference.cache
+C:\Users\Imbaker1234\source\repos\IMBFramework\AdminTools\obj\Debug\AdminTools.csproj.CoreCompileInputs.cache
+C:\Users\Imbaker1234\source\repos\IMBFramework\AdminTools\obj\Debug\AdminTools.dll
+C:\Users\Imbaker1234\source\repos\IMBFramework\AdminTools\obj\Debug\AdminTools.pdb
